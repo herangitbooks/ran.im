@@ -1,6 +1,6 @@
 # Summary
 
-* [I'm Ran He](README.md)
-* [Resume](chapter1.md)
-* List of Publications
+* [I'm Ran He](Intro.md)
+* [Resume](resume.md)
+* [List of Publications](pub.md)
 
