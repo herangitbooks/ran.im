@@ -17,7 +17,16 @@
     },
     
     "plugins": [
-        "editlink"
+    "ad",
+    "sitemap",
+    "splitter",
+    "book-summary-scroll-position-saver",
+    "prism", 
+    "-highlight",
+    "simple-page-toc",
+    "page-toc-button",
+    "sharing",
+    "-lunr", "-search", "search-pro", "editlink"
         ],
     
     "pluginsConfig": {
