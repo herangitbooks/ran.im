@@ -20,13 +20,10 @@
     "ad",
     "sitemap",
     "splitter",
-    "book-summary-scroll-position-saver",
     "prism", 
     "-highlight",
-    "simple-page-toc",
-    "page-toc-button",
     "sharing",
-    "tags", "-lunr", "-search", "search-pro", "editlink"
+    "-lunr", "-search", "search-pro", "editlink"
         ],
     
     "pluginsConfig": {
@@ -56,10 +53,6 @@
                 "weibo", "instapaper"
             ]
      },
-        
-     "tags": {
-            "placement": "bottom"
-        },
         
      "editlink": {
         "base": "https://github.com/herangitbooks/ran.im/blob/master",
