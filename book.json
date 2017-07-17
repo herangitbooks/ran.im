@@ -1,0 +1,68 @@
+
+    "author" : "Ran He",
+    
+    "structure": {
+ 			"readme": "Intro.md"
+ 		},
+    
+    "links" : {
+        "sidebar" : {
+        "www.3dic.xyz" : "https://www.3dic.xyz",
+        "Contact" : "mailto:he@ran.im"
+        }
+      },
+    
+    "styles": {
+        "website": "styles/website.css"
+    },
+    
+    "plugins": [
+    "ad",
+    "sitemap",
+    "splitter",
+    "book-summary-scroll-position-saver",
+    "prism", 
+    "-highlight",
+    "simple-page-toc",
+    "page-toc-button",
+    "sharing",
+    "tags", "-lunr", "-search", "search-pro", "editlink"
+        ],
+    
+    "pluginsConfig": {
+    "fontsettings": {
+      "theme": "white",
+      "family": "serif",
+      "size": 2
+      },
+        
+    "ad": {
+      "contentTop": "",
+      "contentBottom": "©2017 Ran He (he.ran.im) all rights reserved."
+      },
+        
+    "sitemap": {
+      "hostname": "https://he.ran.im/"
+      },
+        
+    "sharing": {
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "weibo": false,
+            "instapaper": false,
+            "all": [
+                "facebook", "google", "twitter",
+                "weibo", "instapaper"
+            ]
+     },
+        
+     "tags": {
+            "placement": "bottom"
+        },
+        
+     "editlink": {
+        "base": "https://github.com/herangitbooks/ran.im/blob/master",
+        "label": "Edit"}   
+    }
+}
