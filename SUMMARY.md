@@ -1,6 +1,6 @@
 # Summary
 
-* [I'm Ran He](Intro.md)
+* [I'm Ran He](INTRO.md)
 * [Resume](resume.md)
 * [List of Publications](pub.md)
 
