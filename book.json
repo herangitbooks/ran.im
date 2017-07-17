@@ -1,4 +1,4 @@
-
+{
     "author" : "Ran He",
     
     "structure": {
@@ -17,13 +17,7 @@
     },
     
     "plugins": [
-    "ad",
-    "sitemap",
-    "splitter",
-    "prism", 
-    "-highlight",
-    "sharing",
-    "-lunr", "-search", "search-pro", "editlink"
+        "editlink"
         ],
     
     "pluginsConfig": {
