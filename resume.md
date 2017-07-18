@@ -2,11 +2,7 @@
 
 _Project Researcher, Department of Precision Engineering, The University of Tokyo_
 
-**Ɍesearch interests**: low-temperature bonding \(especially surface activated bonding methods and [Cu/adhesive](www.3dic.xyz/heran/Cu-adhesive-hybrid-bonding.html) and [Cu/oxide](/heran/Cu-oxide-hybrid-bonding.md) hybrid bonding techniques\),  semiconductor advanced packaging, 3D interconnects, and 3D IC technology
-
-**Ƥersonal website**: [https://he.ran.im](https://he.ran.im), **ḺinkedIn**: [linkedin.com/in/heran](http://linkedin.com/in/heran),  **Ḡoogle Scholar**: [goo.gl/RI5xES](https://goo.gl/RI5xES)
-
-📧 **Ĕ-mail**: [he⟨æt⟩ran.im](mailto:he@ran.im), [ran.he⟨æt⟩ieee.org](mailto:ran.he@ieee.org)
+**Ɍesearch interests**: low-temperature bonding \(especially surface activated bonding methods and [Cu/adhesive](www.3dic.xyz/heran/Cu-adhesive-hybrid-bonding.html) and [Cu/oxide](/heran/Cu-oxide-hybrid-bonding.md) hybrid bonding techniques\),  semiconductor advanced packaging, 3D interconnects, and 3D IC technology.
 
 ## EXPERIENCE
 
