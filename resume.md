@@ -1,12 +1,12 @@
 # Ran He, Ph.D.
 
-**Çurrent position**: Project Researcher, Department of Precision Engineering, The University of Tokyo
+_Project Researcher, Department of Precision Engineering, The University of Tokyo_
 
 **Ɍesearch interests**: low-temperature bonding \(especially surface activated bonding methods and [Cu/adhesive](www.3dic.xyz/heran/Cu-adhesive-hybrid-bonding.html) and [Cu/oxide](/heran/Cu-oxide-hybrid-bonding.md) hybrid bonding techniques\),  semiconductor advanced packaging, 3D interconnects, and 3D IC technology
 
-📧 **Ĕ-mail**: [he⟨æt⟩ran.im](mailto:he@ran.im)
+**Ƥersonal website**: [https://he.ran.im](https://he.ran.im), **ḺinkedIn**: [linkedin.com/in/heran](http://linkedin.com/in/heran),  **Ḡoogle Scholar**: [goo.gl/RI5xES](https://goo.gl/RI5xES)
 
-**Ƥersonal website**: [he.ran.im](https://he.ran.im), **ḺinkedIn**: [linkedin.com/in/heran](http://linkedin.com/in/heran),  **Ḡoogle Scholar**: [goo.gl/RI5xES](https://goo.gl/RI5xES)
+📧 **Ĕ-mail**: [he⟨æt⟩ran.im](mailto:he@ran.im), [ran.he⟨æt⟩ieee.org](mailto:ran.he@ieee.org)
 
 ## EXPERIENCE
 
@@ -18,19 +18,19 @@
 
 1. Surface Activated Bonding (SAB) Methods
 
->* [Combined SAB](www.3dic.xyz/sab/combined-sab.html). Si-containing Ar beam and prebonding attach-detach procedure was combined to reduce bonding temperature of dielectric (like SiO2 and SiNx) and Cu films to sub-200 °C.
+>* [Combined SAB](https://www.3dic.xyz/sab/combined-sab.html). Si-containing Ar beam and prebonding attach-detach procedure was combined to reduce bonding temperature of dielectric (like SiO2 and SiNx) and Cu films to sub-200 °C.
 
->* [Modified SAB](www.3dic.xyz/sab/modified-sab.html) using Si nano-intermediate layer. Using in situ Ar beam bombardment and Si nano-intermediate layer deposition, bonding of semiconductors and dielectric can be obtained at room temperature.
+>* [Modified SAB](https://www.3dic.xyz/sab/modified-sab.html) using Si nano-intermediate layer. Using in situ Ar beam bombardment and Si nano-intermediate layer deposition, bonding of semiconductors and dielectric can be obtained at room temperature.
 
->* [Sequential Plasma Activation Bonding](www.3dic.xyz/sab/sequential-plasma-activation-bonding.html). Various combinations of O2 plasma, N2 plasma, and N radical activations are investigated for pre-bonding surface activation to improve the bonding energy achieved after post-bonding annealing at sub-200 °C.
+>* [Sequential Plasma Activation Bonding](https://www.3dic.xyz/sab/sequential-plasma-activation-bonding.html). Various combinations of O2 plasma, N2 plasma, and N radical activations are investigated for pre-bonding surface activation to improve the bonding energy achieved after post-bonding annealing at sub-200 °C.
 
->* [H-containing HCOOH vapor](www.3dic.xyz/sab/h-containing-hcooh-vapor.html) treatment for sub-200 °C metal bonding/sintering.
+>* [H-containing HCOOH vapor](https://www.3dic.xyz/sab/h-containing-hcooh-vapor.html) treatment for sub-200 °C metal bonding/sintering.
 
-2. Hydrophilic direct bonding (SiO2–SiO2, SiO2–SiNx, and [glass–glass](www.3dic.xyz/heran/glass-glass-bonding.html)) at sub-200 °C
+2. Hydrophilic direct bonding (SiO2–SiO2, SiO2–SiNx, and [glass–glass](https://www.3dic.xyz/heran/glass-glass-bonding.html)) at sub-200 °C
 
-3. [Cu/SiO2 Hybrid Bonding at sub-200 °C](www.3dic.xyz/heran/Cu-oxide-hybrid-bonding.html) for 3D IC
+3. [Cu/SiO2 Hybrid Bonding at sub-200 °C](https://www.3dic.xyz/heran/Cu-oxide-hybrid-bonding.html) for 3D IC
 
-4. [Cu/Adhesive Hybrid Bonding at sub-200 °C](www.3dic.xyz/heran/Cu-adhesive-hybrid-bonding.html) for 2.5D/3D IC
+4. [Cu/Adhesive Hybrid Bonding at sub-200 °C](https://www.3dic.xyz/heran/Cu-adhesive-hybrid-bonding.html) for 2.5D/3D IC
 
 ### Technical Assistant, Oct. 2015 — Jun. 2016
 
