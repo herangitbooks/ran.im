@@ -1,4 +1,4 @@
-# Ran He, Ph.D.
+# Ran He, Ph.D., 3D IC & Advanced Packaging
 
 _Project Researcher, Department of Precision Engineering, The University of Tokyo_
 
