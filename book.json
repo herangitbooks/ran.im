@@ -8,7 +8,7 @@
     "links" : {
         "sidebar" : {
         "he.ran.im" : "https://he.ran.im",
-        "Contact" : "mailto:he@ran.im"
+        "Contact: he@ran.im" : "mailto:he@ran.im"
         }
       },
     
