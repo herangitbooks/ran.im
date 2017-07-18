@@ -9,4 +9,4 @@ I am a project researcher in Prof. T. Suga's group at the University of Tokyo, w
 * [List of publications](https://he.ran.im/pub.html)
 * [Ḡoogle Scholar](https://goo.gl/RI5xES)
 * 📧 Ĕ-mail: [he⟨æt⟩ran.im](mailto:he@ran.im), [ran.he⟨æt⟩ieee.org](mailto:ran.he@ieee.org)
-* WeChat ID: iheran
+* ẆeChat ID: iherañ
