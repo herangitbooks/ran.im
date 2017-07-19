@@ -12,7 +12,7 @@ _Project Researcher, Department of Precision Engineering, The University of Toky
 
 **Research Subjects**:
 
-1. [Surface Activated Bonding (SAB)](http://www.3dic.org/surface_activated_bonding_(SAB)) Methods
+1. [Surface Activated Bonding (SAB)](http://www.3dic.org/SAB) Methods
 
 >* Combined SAB. Si-containing Ar beam and prebonding attach-detach procedure was combined to reduce bonding temperature of dielectric (like SiO2 and SiNx) and Cu films to sub-200 °C.
 
