@@ -77,8 +77,8 @@ One year of experience with Barium Strontium Titanate \(Ba1-xSrxTiO3, BST\) ferr
 
 ## HONORS
 
-1. Award for Outstanding Student Presentation, **2014 ECS and SMEQ Joint International Meeting**, P6: Semiconductor Wafer Bonding 13: Science, Technology, and Applications. Cancun, Mexico. October 5-9, 2014.
-2. Japanese Government \(Monbukagakusho\) Scholarship for Ph.D. study, **Ministry of Education, Culture, Sports, Science and Technology, Japan**, 2012-2015.
+1. Award for Outstanding Student Presentation, [**2014 ECS and SMEQ Joint International Meeting**, P6: Semiconductor Wafer Bonding 13: Science, Technology, and Applications](https://ecs.confex.com/ecs/226/webprogram/Symposium2484.html). Cancun, Mexico. October 5-9, 2014.
+2. Japanese Government \(Monbukagakusho\) Scholarship for Ph.D. study, **[Ministry of Education, Culture, Sports, Science and Technology (MEXT)](http://www.mext.go.jp/en/), Japan**, 2012-2015.
 3. Outstanding Paper Award, **2011 12th International Conference on Electronic Packaging Technology and High Density Packaging \(ICEPT-HDP\)**, Shanghai, China. August 8-11, 2011.
 
 ---
