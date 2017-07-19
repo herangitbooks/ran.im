@@ -12,21 +12,21 @@ _Project Researcher, Department of Precision Engineering, The University of Toky
 
 **Research Subjects**:
 
-1. Surface Activated Bonding (SAB) Methods
+1. [Surface Activated Bonding (SAB)](http://www.3dic.org/surface_activated_bonding_(SAB)) Methods
 
->* [Combined SAB](https://www.3dic.xyz/sab/combined-sab.html). Si-containing Ar beam and prebonding attach-detach procedure was combined to reduce bonding temperature of dielectric (like SiO2 and SiNx) and Cu films to sub-200 °C.
+>* Combined SAB. Si-containing Ar beam and prebonding attach-detach procedure was combined to reduce bonding temperature of dielectric (like SiO2 and SiNx) and Cu films to sub-200 °C.
 
->* [Modified SAB](https://www.3dic.xyz/sab/modified-sab.html) using Si nano-intermediate layer. Using in situ Ar beam bombardment and Si nano-intermediate layer deposition, bonding of semiconductors and dielectric can be obtained at room temperature.
+>* Modified SAB using Si nano-intermediate layer. Using in situ Ar beam bombardment and Si nano-intermediate layer deposition, bonding of semiconductors and dielectric can be obtained at room temperature.
 
->* [Sequential Plasma Activation Bonding](https://www.3dic.xyz/sab/sequential-plasma-activation-bonding.html). Various combinations of O2 plasma, N2 plasma, and N radical activations are investigated for pre-bonding surface activation to improve the bonding energy achieved after post-bonding annealing at sub-200 °C.
+>* [Sequential Plasma Activation Bonding](http://www.3dic.org/Sequential_plasma_activation_bonding). Various combinations of O2 plasma, N2 plasma, and N radical activations are investigated for pre-bonding surface activation to improve the bonding energy achieved after post-bonding annealing at sub-200 °C.
 
->* [H-containing HCOOH vapor](https://www.3dic.xyz/sab/h-containing-hcooh-vapor.html) treatment for sub-200 °C metal bonding/sintering.
+>* H-containing HCOOH vapor treatment for sub-200 °C metal bonding/sintering.
 
-2. Hydrophilic direct bonding (SiO2–SiO2, SiO2–SiNx, and [glass–glass](https://www.3dic.xyz/heran/glass-glass-bonding.html)) at sub-200 °C
+2. Hydrophilic direct bonding (SiO2–SiO2, SiO2–SiNx, and glass–glass) at sub-200 °C
 
-3. [Cu/SiO2 Hybrid Bonding at sub-200 °C](https://www.3dic.xyz/heran/Cu-oxide-hybrid-bonding.html) for 3D IC
+3. Cu/SiO2 [Hybrid Bonding](http://www.3dic.org/hybrid_bonding) at sub-200 °C for 3D IC
 
-4. [Cu/Adhesive Hybrid Bonding at sub-200 °C](https://www.3dic.xyz/heran/Cu-adhesive-hybrid-bonding.html) for 2.5D/3D IC
+4. Cu/Adhesive [Hybrid Bonding](http://www.3dic.org/hybrid_bonding) at sub-200 °C for 2.5D/3D IC
 
 ### Technical Assistant, Oct. 2015 — Jun. 2016
 
@@ -82,6 +82,3 @@ One year of experience with Barium Strontium Titanate \(Ba1-xSrxTiO3, BST\) ferr
 3. Outstanding Paper Award, **2011 12th International Conference on Electronic Packaging Technology and High Density Packaging \(ICEPT-HDP\)**, Shanghai, China. August 8-11, 2011.
 
 ---
-
-
-
