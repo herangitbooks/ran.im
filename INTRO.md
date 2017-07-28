@@ -8,7 +8,7 @@ I am a project researcher in Prof. T. Suga's group at the University of Tokyo, w
 * [LinkedIn](https://www.linkedin.com/in/heran/)
 * [List of publications](https://he.ran.im/pub.html)
 * [Ḡoogle Scholar](https://goo.gl/RI5xES)
-* 📧 Ĕ-mail: [ran.he@ieee.org, he.ran@su.t.u-tokyo.ac.jp](mailto:ran.he@ieee.org, he.ran@su.t.u-tokyo.ac.jp)
+* 📧 Ĕ-mail: [ran.he@ieee.org, he.ran@su.t.u-tokyo.ac.jp](mailto:ran.he@ieee.org,he.ran@su.t.u-tokyo.ac.jp)
 * ẆeChat ID: iherañ
 
 ---
