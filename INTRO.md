@@ -19,6 +19,6 @@ I am a project researcher in Prof. T. Suga's group at the University of Tokyo, w
 * [领英](https://www.linkedin.com/in/heran/)
 * [文章发表](https://he.ran.im/pub.html)
 * [谷歌学术页面](https://goo.gl/RI5xES)
-* 📧 Ĕ-mail: [ran.he@ieee.org, he.ran@su.t.u-tokyo.ac.jp](mailto:ran.he@ieee.org,he.ran@su.t.u-tokyo.ac.jp)
+* 📧 电子邮箱l: [ran.he@ieee.org, he.ran@su.t.u-tokyo.ac.jp](mailto:ran.he@ieee.org,he.ran@su.t.u-tokyo.ac.jp)
 * 微信: iherañ
 ---
