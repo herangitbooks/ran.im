@@ -12,7 +12,7 @@ Hi there! I'm Ran He. I am a project researcher in Prof. T. Suga's group at the 
 * ẆeChat ID: iherañ
 
 
-# 赫然个人网站
+# 赫然
 > 本站链接 [https://he.ran.im](https://he.ran.im)
 
 我是赫然，目前任职于東京大学（特任研究员）。我的研究兴趣包括低温键合，半导体高级封装，三维互连，以及三维集成技术。以下是一些关于我的链接：
