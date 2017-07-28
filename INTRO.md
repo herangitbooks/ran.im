@@ -2,7 +2,7 @@
 
 > The URL of this webstie is [https://he.ran.im](https://he.ran.im)
 
-I am a project researcher in Prof. T. Suga's group at the University of Tokyo, with great interests in low-temperature bonding, semiconductor advanced packaging, 3D interconnects, and 3D IC technology. You can find more about me on the following links:
+Hi there! I'm Ran He. I am a project researcher in Prof. T. Suga's group at the University of Tokyo, with great interests in `low-temperature bonding, semiconductor advanced packaging, 3D interconnects, and 3D IC technology`. You can find more about me on the following links:
 
 * [My resume](https://he.ran.im/resume.html)
 * [LinkedIn](https://www.linkedin.com/in/heran/)
@@ -13,9 +13,11 @@ I am a project researcher in Prof. T. Suga's group at the University of Tokyo, w
 
 
 # 赫然个人网站
-> 这里是赫然的个人网站，本站的链接是 [https://he.ran.im](https://he.ran.im)
+> 本站链接 [https://he.ran.im](https://he.ran.im)
 
-* [简历](https://he.ran.im/resume.html)
+我是赫然，目前任职于東京大学（特任研究员）。我的研究兴趣包括`低温键合，半导体高级封装，三维互连，以及三维集成技术`。以下是一些关于我的链接：
+
+* [个人简历](https://he.ran.im/resume.html)
 * [领英](https://www.linkedin.com/in/heran/)
 * [文章发表](https://he.ran.im/pub.html)
 * [谷歌学术档案](https://goo.gl/RI5xES)
