@@ -1,4 +1,4 @@
-# Hello, I'm Ran He
+# I'm Ran He
 
 > The URL of this webstie is [https://he.ran.im](https://he.ran.im)
 
