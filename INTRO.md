@@ -17,9 +17,9 @@ Hi there! I'm Ran He. I am a project researcher in Prof. T. Suga's group at the 
 
 我是赫然，目前任职于東京大学（特任研究员）。我的研究兴趣包括低温键合，半导体高级封装，三维互连，以及三维集成技术。以下是一些关于我的链接：
 
-* [个人简历](https://he.ran.im/resume.html)
-* [领英](https://www.linkedin.com/in/heran/)
-* [文章发表](https://he.ran.im/pub.html)
+* [个人简历](https://he.ran.im/jianli.html)
+* [领英页面](https://www.linkedin.com/in/heran/)
+* [文章发表](https://he.ran.im/pub-zh.html)
 * [谷歌学术档案](https://goo.gl/RI5xES)
 * 📧 电子邮箱: [ran.he@ieee.org, he.ran@su.t.u-tokyo.ac.jp](mailto:ran.he@ieee.org,he.ran@su.t.u-tokyo.ac.jp)
 * 微信: iherañ
