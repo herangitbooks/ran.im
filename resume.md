@@ -6,7 +6,7 @@ _Project Researcher, Department of Precision Engineering, The University of Toky
 
 ## EXPERIENCE
 
-### Project Researcher, Jul. 2016 — Present
+### Project Researcher, Oct. 2015 — Present
 
 **Department of Precision Engineering, School of Engineering, [The University of Tokyo](http://www.pe.t.u-tokyo.ac.jp/en/index.html), Tokyo, Japan**
 
@@ -27,10 +27,6 @@ _Project Researcher, Department of Precision Engineering, The University of Toky
 3. Cu/SiO2 [Hybrid Bonding](http://www.3dic.org/hybrid_bonding) at sub-200 °C for 3D IC
 
 4. Cu/Adhesive [Hybrid Bonding](http://www.3dic.org/hybrid_bonding) at sub-200 °C for 2.5D/3D IC
-
-### Technical Assistant, Oct. 2015 — Jun. 2016
-
-**Department of Precision Engineering, School of Engineering, [The University of Tokyo](http://www.pe.t.u-tokyo.ac.jp/en/index.html), Tokyo, Japan**
 
 **Research Subjects**: Combined surface activation approaches for
 
