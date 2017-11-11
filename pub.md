@@ -28,9 +28,9 @@
 
 ### International Conference Papers/Presentations
 
-\[11\]    **Ran He**, Masahisa Fujino, Masatake Akaike, Taiji Sakai, Seiki Sakuyama, and Tadatomo Suga, “Cu/Adhesive Hybrid Bonding through a Cu-first Approach by Using H-containing HCOOH Vapor Treatment”, to be presented in 2017 IEEE 18th International Conference on Electronic Packaging Technology \(ICEPT2017\), Harbin, China, Aug. 16-19, 2017, accepted.
+\[11\]    **Ran He**, Masahisa Fujino, Masatake Akaike, Taiji Sakai, Seiki Sakuyama, and Tadatomo Suga, “Cu/Adhesive Hybrid Bonding through a Cu-first Approach by Using H-containing HCOOH Vapor Treatment”, to be presented in 2017 IEEE 18th International Conference on Electronic Packaging Technology \(ICEPT2017\), Harbin, China, Aug. 16-19, 2017.
 
-\[12\]    **Ran He**, Masahisa Fujino, Masatake Akaike, Taiji Sakai, Seiki Sakuyama, and Tadatomo Suga, “Cu/Adhesive Hybrid Bonding at 180 °C in H-containing HCOOH Vapor Ambient for 2.5D/3D Integration”, 2017 IEEE 67th Electronic Components and Technology Conference \(ECTC\), Orlando, Florida, USA, May 30-June 2, 2017.([pdf](http://www.3dic.org/images/7/75/2017_He._Cu-Adhesive_Hybrid_Bonding_in_H-containing_HCOOH_Vapor_Ambient.pdf))
+\[12\]    **Ran He**, Masahisa Fujino, Masatake Akaike, Taiji Sakai, Seiki Sakuyama, and Tadatomo Suga, “Cu/Adhesive Hybrid Bonding at 180 °C in H-containing HCOOH Vapor Ambient for 2.5D/3D Integration”, 2017 IEEE 67th Electronic Components and Technology Conference \(ECTC\), Orlando, Florida, USA, May 30-June 2, 2017.\([pdf](http://www.3dic.org/images/7/75/2017_He._Cu-Adhesive_Hybrid_Bonding_in_H-containing_HCOOH_Vapor_Ambient.pdf)\)
 
 \[13\]    **Ran He** and Tadatomo Suga, “Novel Sequential Plasma Activation Bonding Method for Direct Glass Bonding”, in 2017 5th International Workshop on Low Temperature Bonding for 3D Integration \(LTB-3D 2017\), Tokyo, Japan, May 16-18, 2017.
 
@@ -79,3 +79,6 @@
 \[35\]    Jing Zhou, Daquan Yu, **Ran He**, Fengwei Dai, Xueping Guo, Congshen Song, Huijuan Wang, Daniel Guidotti, Liqiang Cao, and Lixi Wan, “Nonlinear thermal stress-strain analysis of through silicon vias with different structures and polymer filling,” in 2011 IEEE 13th Electronics Packaging Technology Conference, 2011, pp. 686–690. Available: [http://dx.doi.org/10.1109/EPTC.2011.6184505](http://dx.doi.org/10.1109/EPTC.2011.6184505)
 
 ---
+
+
+
