@@ -10,7 +10,7 @@
 
 ## Research
 
-* [Cu/oxide bonding for 3D IC](research/cuoxide-bonding-for-3d-ic.md)
-* [Cu/adhesive hybrid bonding for 2.5D/3D IC](research/cuadhesive-hybrid-bonding-for-25d3d-ic.md)
+* [Cu/oxide hybrid bonding for 3D IC](research/Cu-oxide-hybrid-bonding.md)
+* [Cu/adhesive hybrid bonding for 2.5D/3D IC](research/Cu-adhesive-hybrid-bonding.md)
 * [Power electronics die attach](research/power-electronics-die-attach.md)
 
