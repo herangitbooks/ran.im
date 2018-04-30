@@ -5,6 +5,7 @@ _Project Researcher, Department of Precision Engineering, The University of Toky
 **Ɍesearch interests**: low-temperature wafer bonding \(especially surface activated bonding methods and Cu/adhesive and Cu/oxide hybrid bonding techniques\),  semiconductor advanced packaging, 3D interconnects, and 3D IC technology.
 
 ## EXPERIENCE
+### Senior Engineer, Apr. 2018 — Present
 
 ### Project Researcher, Oct. 2015 — Mar. 2018
 
