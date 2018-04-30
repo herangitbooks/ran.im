@@ -5,9 +5,9 @@ _Project Researcher, Department of Precision Engineering, The University of Toky
 **Ɍesearch interests**: low-temperature wafer bonding \(especially surface activated bonding methods and Cu/adhesive and Cu/oxide hybrid bonding techniques\),  semiconductor advanced packaging, 3D interconnects, and 3D IC technology.
 
 ## EXPERIENCE
-### Senior Engineer, Apr. 2018 — Present
+### Senior Engineer, Huawei Technologies Co., Ltd., Apr. 2018 — Present
 
-### Project Researcher, Oct. 2015 — Mar. 2018
+### Project Researcher, The University of Tokyo, Oct. 2015 — Mar. 2018
 
 **Department of Precision Engineering, School of Engineering, [The University of Tokyo](http://www.pe.t.u-tokyo.ac.jp/en/index.html), Tokyo, Japan**
 
