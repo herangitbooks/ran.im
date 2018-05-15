@@ -10,7 +10,7 @@ My interests are low-temperature bonding, semiconductor advanced packaging, 3D i
 * [LinkedIn](https://www.linkedin.com/in/heran/)
 * [List of publications](https://he.ran.im/pub.html)
 * [Ḡoogle Scholar](https://goo.gl/RI5xES)
-* 📧 Ĕ-mail: [ran.he@ieee.org, ran.he@huawei.com](mailto:ran.he@ieee.org,ran.he@huawei.com)
+* 📧 Ĕ-mail: [ran.he@ieee.org](mailto:ran.he@ieee.org)
 * ẆeChat ID: iherañ
 
 
@@ -21,6 +21,6 @@ My interests are low-temperature bonding, semiconductor advanced packaging, 3D i
 我的研究兴趣包括低温键合，半导体高级封装，三维互连，以及三维集成技术。以下是一些关于我的链接：
 
 * [领英页面](https://www.linkedin.com/in/heran/)
-* 📧 电子邮箱: [ran.he@ieee.org, ran.he@huawei.com](mailto:ran.he@ieee.org,ran.he@huawei.com)
+* 📧 电子邮箱: [ran.he@ieee.org](mailto:ran.he@ieee.org)
 * 微信: iherañ
 ---
