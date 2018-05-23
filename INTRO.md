@@ -3,8 +3,8 @@
 > The URL of this webstie is [https://he.ran.im](https://he.ran.im)
 
 Hi there! I'm Ran He. I am a senior engineer at Component Technology Development Department in Huawei Technologies Co., Ltd. 
-I got my Ph.D. degree from Prof. T. Suga's group at the University of Tokyo, Tokyo, Japan in 2016.
-My interests are low-temperature bonding, semiconductor advanced packaging, 3D interconnects, and 3D IC technology. You can find more about me on the following links:
+I earned my Ph.D. in 2016 from the Department of Precision Engineering (Prof. T. Suga's group) of the University of Tokyo, Tokyo, Japan.
+From 2016 to 2018, I worked as a researcher at the University of Tokyo, where I was involved with research of low-temperature bonding for semiconductor integration and advanced packaging. You can find more about me on the following links:
 
 * 📧 Ĕ-mail: [ran.he@ieee.org](mailto:ran.he@ieee.org)
 * [My resume](https://he.ran.im/resume.html)
@@ -12,7 +12,6 @@ My interests are low-temperature bonding, semiconductor advanced packaging, 3D i
 * [List of publications](https://he.ran.im/pub.html)
 * [Ḡoogle Scholar](https://goo.gl/RI5xES)
 * ẆeChat ID: iherañ
-
 
 # 赫然
 > 本站链接 [https://he.ran.im](https://he.ran.im)
