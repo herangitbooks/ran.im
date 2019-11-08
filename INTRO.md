@@ -16,7 +16,7 @@ From 2016 to 2018, I worked as a researcher at the University of Tokyo, where I 
 # 赫然
 > 本站链接 [https://he.ran.im](https://he.ran.im)
 
-我是赫然，华为器件技术开发部高级工程师。
+我是赫然，华为海思平台与技术开发部高级工程师。
 研究兴趣包括低温键合，半导体先进封装，三维互连，以及三维集成技术。以下是一些链接：
 
 * 📧 电子邮箱: [ran.he@ieee.org](mailto:ran.he@ieee.org)
