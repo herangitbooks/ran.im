@@ -13,7 +13,7 @@ From 2016 to 2018, I worked as a researcher at the University of Tokyo, where I 
 * [Ḡoogle Scholar](https://goo.gl/RI5xES)
 * ẆeChat ID: iherañ
 
-# 赫然
+# 赫然，博士
 > 本站链接 [https://he.ran.im](https://he.ran.im)
 
 我是赫然，华为海思平台与技术开发部高级工程师。
